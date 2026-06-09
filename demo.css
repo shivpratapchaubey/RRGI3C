@@ -1,2 +1,16 @@
 
+h1{
+    text-align: center;
+    color:red;
+    
+} 
+button{
+    border-radius:12px;
+    margin: top 20px;
+    align-items: center;
 
+}
+input[type=button]{
+margin-top: 10px;
+padding-top: 20px;
+}
